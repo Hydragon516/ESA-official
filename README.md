@@ -1,5 +1,5 @@
 # Robust Lane Detection via Expanded Self Attention (WACV 2022)
-Minhyeok Lee, Junhyeop Lee, Dogyoon Lee, Woojin Kim, Sangwon Hwang, Sangyoun Lee
+[Minhyeok Lee](https://github.com/Hydragon516), [Junhyeop Lee](https://github.com/JunhyeopLee), [Dogyoon Lee](https://github.com/dogyoonlee), Woojin Kim, Sangwon Hwang, Sangyoun Lee
 
 ## Overview
 This repository is the official PyTorch implementation of Robust Lane Detection via Expanded Self Attention (WACV 2022).
