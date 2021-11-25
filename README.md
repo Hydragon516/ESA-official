@@ -9,8 +9,8 @@ Our paper can be found [here](https://arxiv.org/abs/2102.07037).
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/robust-lane-detection-via-expanded-self/lane-detection-on-culane)](https://paperswithcode.com/sota/lane-detection-on-culane?p=robust-lane-detection-via-expanded-self)
 
 ## Architecture
-![ESA](./ESA-module.png)
-![Model](./architecture.png)
+![ESA](./images/ESA-module.png)
+![Model](./images/architecture.png)
 
 ## Results (CULane)
-![Model](./table_result.png)
+![Model](./images/table_result.png)
