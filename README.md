@@ -56,3 +56,7 @@ Then start testing with the following:
 ```console
 python test.py
 ```
+
+## Video
+![result_night](./images/day.gif)
+![result_night](./images/night.gif)
