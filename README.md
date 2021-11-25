@@ -14,3 +14,8 @@ Our paper can be found [here](https://arxiv.org/abs/2102.07037).
 
 ## Results (CULane)
 ![Model](./images/table_result.png)
+
+## Training
+```console
+python train_mymodel.py
+```
