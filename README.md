@@ -60,3 +60,13 @@ python test.py
 ## Video
 ![result_night](./images/day.gif)
 ![result_night](./images/night.gif)
+
+## Citation
+```
+@article{lee2021robust,
+  title={Robust lane detection via expanded self attention},
+  author={Lee, Minhyeok and Lee, Junhyeop and Lee, Dogyoon and Kim, Woojin and Hwang, Sangwon and Lee, Sangyoun},
+  journal={arXiv preprint arXiv:2102.07037},
+  year={2021}
+}
+```
