@@ -16,7 +16,7 @@ Our paper can be found [here](https://arxiv.org/abs/2102.07037).
 ![Model](./images/table_result.png)
 
 ## Dataset
-Download the CULane dataset [here](https://drive.google.com/drive/folders/1mSLgwVTiaUMAb4AVOWwlCD5JcWdrwpvu).
+Download the [CULane dataset](https://drive.google.com/drive/folders/1mSLgwVTiaUMAb4AVOWwlCD5JcWdrwpvu).
 
 ```
 └── Dataset root/
